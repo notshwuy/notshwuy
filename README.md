@@ -10,6 +10,6 @@
     
   <h6>social</h6>
 <samp>    
-  • bsky: [@shwuy.bsky.social](https://bsky.app/profile/shwuy.bsky.social)<br>
-  • matrix: [@shwuy:matrix.org](https://matrix.to/#/@shwuy:matrix.org)
+  • bsky: <a href="https://bsky.app/profile/shwuy.bsky.social">@shwuy.bsky.social</a><br>
+  • matrix: <a href="https://matrix.to/#/@shwuy:matrix.org">@shwuy:matrix.org</a>
 </samp>
