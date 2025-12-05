@@ -1,8 +1,11 @@
 <samp>
-  <h4 align="center">technical&founder; finance; computers; networking</h4>
-  <p align="center">
+  <h4 align="left">⫻ Itallo S.</h4>
+  <ul>
+    <li>technical founder;</li>
+    <li>computers / infrastructure;</li>
+    <li>scalable / networking;</li>
+  </ul>
+  <p align="left">
     <a href="mailto:itallo@zhaoworks.com">send email</a>
-    <span>—</span>
-    <a href="https://matrix.to/#/@shwuy:matrix.org">chat on matrix</a>
   </p>
 </samp>
